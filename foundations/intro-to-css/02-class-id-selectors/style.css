@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p {
+    background-color: rgb(226, 148, 209);
+    font-family: 'Verdana','DejaVu Sans', 'sans-serif';
+}
+
+#two {
+    color : rgb(40, 77, 197);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(92, 233, 122);
+    font-weight: bold;
+    font-size: 24px;
+}
